@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+covid19_cleaned.csv
+
+covid19.csv
+
+api_key.py
