@@ -16,6 +16,7 @@ Then explored the data to look for patterns and trends to model:
     Modelling Travel.ipynb
     
 And finally, we then explored two primary topics in our modelling and analysis.
+
     1. Predicting symptoms and hospitalizations.
     2. Establishing a relationship betyween population density and case counts.
     This analysis can be seen in this notebook,
